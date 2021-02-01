@@ -1,0 +1,15 @@
+
+
+Haushaltsstruktur: betraegt 1.99 Person je Wohnung.
+
+Wohnungen_gesamt: zeigt die Summe der registrierten Wohnungen in den jeweiligen Zaehlsprengel.
+
+Wohnungen_genutzt: ergibt sich aus der Grazer Bevoelkerung, der Haupt- und Nebenwohnsitze, unter Beruecksichtigung der Haushaltsstruktur.
+
+Differenz: zeigt die Differenz zwischen den registrierten Wohnungen zu den genutzen Wohnungen, also dem Angebot zur Nachfrage. Da es sich um eine mathematische Analyse handelt kann es auch negative Werte geben. Dies ist zum Beispiel der Fall wenn die Haushaltsstruktur groesser als im Grazer Durchschnitt ist.
+
+
+
+
+Andere Quellen:
+https://www.immodienstag.at/wp-content/uploads/2019/01/EHL_Immodienstag_Wohnungsmarktbericht-Graz_20190326.pdf
