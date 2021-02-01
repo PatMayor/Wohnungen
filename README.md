@@ -1,2 +1,1 @@
-# READ ME Projekt Wohnungsmarkt Graz
-
+# Wohngsmarkt Analyse Graz - Glossar
